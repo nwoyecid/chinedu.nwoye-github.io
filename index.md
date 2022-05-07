@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Meet Chinedu Nwoye
 
 You can use the [editor on GitHub](https://github.com/nwoyecid/chinedu.nwoye-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
